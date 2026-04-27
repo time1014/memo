@@ -14,7 +14,7 @@ public class TestClass {
 	}
 	
 	@Test
-	@DisplayName("실행실패")
+	@DisplayName("실행실패  ")
 	public void test2() {
 		assertEquals("b", "b");
 	}
